@@ -1,0 +1,27 @@
+E:\Le Viet Hoang Nguyen\LTWNC\3Lop\QLCuaHangSua\QLCuaHangSuaBUS\bin\Debug\QLCuaHangSuaBUS.dll
+E:\Le Viet Hoang Nguyen\LTWNC\3Lop\QLCuaHangSua\QLCuaHangSuaBUS\bin\Debug\QLCuaHangSuaBUS.pdb
+E:\Le Viet Hoang Nguyen\LTWNC\3Lop\QLCuaHangSua\QLCuaHangSuaBUS\bin\Debug\QLCuaHangSuaDAO.dll
+E:\Le Viet Hoang Nguyen\LTWNC\3Lop\QLCuaHangSua\QLCuaHangSuaBUS\bin\Debug\QLCuaHangSuaDTO.dll
+E:\Le Viet Hoang Nguyen\LTWNC\3Lop\QLCuaHangSua\QLCuaHangSuaBUS\bin\Debug\QLCuaHangSuaDAO.pdb
+E:\Le Viet Hoang Nguyen\LTWNC\3Lop\QLCuaHangSua\QLCuaHangSuaBUS\bin\Debug\QLCuaHangSuaDTO.pdb
+E:\Le Viet Hoang Nguyen\LTWNC\3Lop\QLCuaHangSua\QLCuaHangSuaBUS\obj\Debug\QLCuaHangSuaBUS.csprojResolveAssemblyReference.cache
+E:\Le Viet Hoang Nguyen\LTWNC\3Lop\QLCuaHangSua\QLCuaHangSuaBUS\obj\Debug\QLCuaHangSuaBUS.dll
+E:\Le Viet Hoang Nguyen\LTWNC\3Lop\QLCuaHangSua\QLCuaHangSuaBUS\obj\Debug\QLCuaHangSuaBUS.pdb
+E:\_\THLTWNC_16\3Lop\QLCuaHangSua\QLCuaHangSuaBUS\bin\Debug\QLCuaHangSuaBUS.dll
+E:\_\THLTWNC_16\3Lop\QLCuaHangSua\QLCuaHangSuaBUS\bin\Debug\QLCuaHangSuaBUS.pdb
+E:\_\THLTWNC_16\3Lop\QLCuaHangSua\QLCuaHangSuaBUS\bin\Debug\QLCuaHangSuaDAO.dll
+E:\_\THLTWNC_16\3Lop\QLCuaHangSua\QLCuaHangSuaBUS\bin\Debug\QLCuaHangSuaDTO.dll
+E:\_\THLTWNC_16\3Lop\QLCuaHangSua\QLCuaHangSuaBUS\bin\Debug\QLCuaHangSuaDAO.pdb
+E:\_\THLTWNC_16\3Lop\QLCuaHangSua\QLCuaHangSuaBUS\bin\Debug\QLCuaHangSuaDTO.pdb
+E:\_\THLTWNC_16\3Lop\QLCuaHangSua\QLCuaHangSuaBUS\obj\Debug\QLCuaHangSuaBUS.csprojResolveAssemblyReference.cache
+E:\_\THLTWNC_16\3Lop\QLCuaHangSua\QLCuaHangSuaBUS\obj\Debug\QLCuaHangSuaBUS.dll
+E:\_\THLTWNC_16\3Lop\QLCuaHangSua\QLCuaHangSuaBUS\obj\Debug\QLCuaHangSuaBUS.pdb
+E:\source code\3Lop_PMC\QLCuaHangSua\QLCuaHangSuaBUS\bin\Debug\QLCuaHangSuaBUS.dll
+E:\source code\3Lop_PMC\QLCuaHangSua\QLCuaHangSuaBUS\bin\Debug\QLCuaHangSuaBUS.pdb
+E:\source code\3Lop_PMC\QLCuaHangSua\QLCuaHangSuaBUS\bin\Debug\QLCuaHangSuaDAO.dll
+E:\source code\3Lop_PMC\QLCuaHangSua\QLCuaHangSuaBUS\bin\Debug\QLCuaHangSuaDTO.dll
+E:\source code\3Lop_PMC\QLCuaHangSua\QLCuaHangSuaBUS\bin\Debug\QLCuaHangSuaDAO.pdb
+E:\source code\3Lop_PMC\QLCuaHangSua\QLCuaHangSuaBUS\bin\Debug\QLCuaHangSuaDTO.pdb
+E:\source code\3Lop_PMC\QLCuaHangSua\QLCuaHangSuaBUS\obj\Debug\QLCuaHangSuaBUS.csprojResolveAssemblyReference.cache
+E:\source code\3Lop_PMC\QLCuaHangSua\QLCuaHangSuaBUS\obj\Debug\QLCuaHangSuaBUS.dll
+E:\source code\3Lop_PMC\QLCuaHangSua\QLCuaHangSuaBUS\obj\Debug\QLCuaHangSuaBUS.pdb

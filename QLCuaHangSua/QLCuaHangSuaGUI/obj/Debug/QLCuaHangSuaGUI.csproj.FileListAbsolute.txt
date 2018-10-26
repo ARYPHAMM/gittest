@@ -1,0 +1,46 @@
+c:\users\sv\documents\visual studio 2013\Projects\QLCuaHangSua\QLCuaHangSuaGUI\bin\Debug\QLCuaHangSuaGUI.exe.config
+E:\Le Viet Hoang Nguyen\LTWNC\3Lop\QLCuaHangSua\QLCuaHangSuaGUI\bin\Debug\QLCuaHangSuaGUI.exe.config
+E:\Le Viet Hoang Nguyen\LTWNC\3Lop\QLCuaHangSua\QLCuaHangSuaGUI\bin\Debug\QLCuaHangSuaGUI.exe
+E:\Le Viet Hoang Nguyen\LTWNC\3Lop\QLCuaHangSua\QLCuaHangSuaGUI\bin\Debug\QLCuaHangSuaGUI.pdb
+E:\Le Viet Hoang Nguyen\LTWNC\3Lop\QLCuaHangSua\QLCuaHangSuaGUI\bin\Debug\QLCuaHangSuaBUS.dll
+E:\Le Viet Hoang Nguyen\LTWNC\3Lop\QLCuaHangSua\QLCuaHangSuaGUI\bin\Debug\QLCuaHangSuaDTO.dll
+E:\Le Viet Hoang Nguyen\LTWNC\3Lop\QLCuaHangSua\QLCuaHangSuaGUI\bin\Debug\QLCuaHangSuaBUS.pdb
+E:\Le Viet Hoang Nguyen\LTWNC\3Lop\QLCuaHangSua\QLCuaHangSuaGUI\bin\Debug\QLCuaHangSuaDTO.pdb
+E:\Le Viet Hoang Nguyen\LTWNC\3Lop\QLCuaHangSua\QLCuaHangSuaGUI\obj\Debug\QLCuaHangSuaGUI.csprojResolveAssemblyReference.cache
+E:\Le Viet Hoang Nguyen\LTWNC\3Lop\QLCuaHangSua\QLCuaHangSuaGUI\obj\Debug\QLCuaHangSuaGUI.frmSanPhamSua.resources
+E:\Le Viet Hoang Nguyen\LTWNC\3Lop\QLCuaHangSua\QLCuaHangSuaGUI\obj\Debug\QLCuaHangSuaGUI.Properties.Resources.resources
+E:\Le Viet Hoang Nguyen\LTWNC\3Lop\QLCuaHangSua\QLCuaHangSuaGUI\obj\Debug\QLCuaHangSuaGUI.csproj.GenerateResource.Cache
+E:\Le Viet Hoang Nguyen\LTWNC\3Lop\QLCuaHangSua\QLCuaHangSuaGUI\obj\Debug\QLCuaHangSuaGUI.exe
+E:\Le Viet Hoang Nguyen\LTWNC\3Lop\QLCuaHangSua\QLCuaHangSuaGUI\obj\Debug\QLCuaHangSuaGUI.pdb
+E:\Le Viet Hoang Nguyen\LTWNC\3Lop\QLCuaHangSua\QLCuaHangSuaGUI\bin\Debug\QLCuaHangSuaDAO.dll
+E:\Le Viet Hoang Nguyen\LTWNC\3Lop\QLCuaHangSua\QLCuaHangSuaGUI\bin\Debug\QLCuaHangSuaDAO.pdb
+E:\_\THLTWNC_16\3Lop\QLCuaHangSua\QLCuaHangSuaGUI\bin\Debug\QLCuaHangSuaGUI.exe.config
+E:\_\THLTWNC_16\3Lop\QLCuaHangSua\QLCuaHangSuaGUI\obj\Debug\QLCuaHangSuaGUI.exe
+E:\_\THLTWNC_16\3Lop\QLCuaHangSua\QLCuaHangSuaGUI\obj\Debug\QLCuaHangSuaGUI.pdb
+E:\_\THLTWNC_16\3Lop\QLCuaHangSua\QLCuaHangSuaGUI\bin\Debug\QLCuaHangSuaGUI.exe
+E:\_\THLTWNC_16\3Lop\QLCuaHangSua\QLCuaHangSuaGUI\bin\Debug\QLCuaHangSuaGUI.pdb
+E:\_\THLTWNC_16\3Lop\QLCuaHangSua\QLCuaHangSuaGUI\bin\Debug\QLCuaHangSuaBUS.dll
+E:\_\THLTWNC_16\3Lop\QLCuaHangSua\QLCuaHangSuaGUI\bin\Debug\QLCuaHangSuaDTO.dll
+E:\_\THLTWNC_16\3Lop\QLCuaHangSua\QLCuaHangSuaGUI\bin\Debug\QLCuaHangSuaDAO.dll
+E:\_\THLTWNC_16\3Lop\QLCuaHangSua\QLCuaHangSuaGUI\bin\Debug\QLCuaHangSuaBUS.pdb
+E:\_\THLTWNC_16\3Lop\QLCuaHangSua\QLCuaHangSuaGUI\bin\Debug\QLCuaHangSuaDTO.pdb
+E:\_\THLTWNC_16\3Lop\QLCuaHangSua\QLCuaHangSuaGUI\bin\Debug\QLCuaHangSuaDAO.pdb
+E:\_\THLTWNC_16\3Lop\QLCuaHangSua\QLCuaHangSuaGUI\obj\Debug\QLCuaHangSuaGUI.csprojResolveAssemblyReference.cache
+E:\_\THLTWNC_16\3Lop\QLCuaHangSua\QLCuaHangSuaGUI\obj\Debug\QLCuaHangSuaGUI.frmSanPhamSua.resources
+E:\_\THLTWNC_16\3Lop\QLCuaHangSua\QLCuaHangSuaGUI\obj\Debug\QLCuaHangSuaGUI.Properties.Resources.resources
+E:\_\THLTWNC_16\3Lop\QLCuaHangSua\QLCuaHangSuaGUI\obj\Debug\QLCuaHangSuaGUI.csproj.GenerateResource.Cache
+E:\source code\3Lop_PMC\QLCuaHangSua\QLCuaHangSuaGUI\bin\Debug\QLCuaHangSuaGUI.exe.config
+E:\source code\3Lop_PMC\QLCuaHangSua\QLCuaHangSuaGUI\obj\Debug\QLCuaHangSuaGUI.exe
+E:\source code\3Lop_PMC\QLCuaHangSua\QLCuaHangSuaGUI\obj\Debug\QLCuaHangSuaGUI.pdb
+E:\source code\3Lop_PMC\QLCuaHangSua\QLCuaHangSuaGUI\bin\Debug\QLCuaHangSuaGUI.exe
+E:\source code\3Lop_PMC\QLCuaHangSua\QLCuaHangSuaGUI\bin\Debug\QLCuaHangSuaGUI.pdb
+E:\source code\3Lop_PMC\QLCuaHangSua\QLCuaHangSuaGUI\bin\Debug\QLCuaHangSuaBUS.dll
+E:\source code\3Lop_PMC\QLCuaHangSua\QLCuaHangSuaGUI\bin\Debug\QLCuaHangSuaDTO.dll
+E:\source code\3Lop_PMC\QLCuaHangSua\QLCuaHangSuaGUI\bin\Debug\QLCuaHangSuaDAO.dll
+E:\source code\3Lop_PMC\QLCuaHangSua\QLCuaHangSuaGUI\bin\Debug\QLCuaHangSuaBUS.pdb
+E:\source code\3Lop_PMC\QLCuaHangSua\QLCuaHangSuaGUI\bin\Debug\QLCuaHangSuaDTO.pdb
+E:\source code\3Lop_PMC\QLCuaHangSua\QLCuaHangSuaGUI\bin\Debug\QLCuaHangSuaDAO.pdb
+E:\source code\3Lop_PMC\QLCuaHangSua\QLCuaHangSuaGUI\obj\Debug\QLCuaHangSuaGUI.csprojResolveAssemblyReference.cache
+E:\source code\3Lop_PMC\QLCuaHangSua\QLCuaHangSuaGUI\obj\Debug\QLCuaHangSuaGUI.frmSanPhamSua.resources
+E:\source code\3Lop_PMC\QLCuaHangSua\QLCuaHangSuaGUI\obj\Debug\QLCuaHangSuaGUI.Properties.Resources.resources
+E:\source code\3Lop_PMC\QLCuaHangSua\QLCuaHangSuaGUI\obj\Debug\QLCuaHangSuaGUI.csproj.GenerateResource.Cache

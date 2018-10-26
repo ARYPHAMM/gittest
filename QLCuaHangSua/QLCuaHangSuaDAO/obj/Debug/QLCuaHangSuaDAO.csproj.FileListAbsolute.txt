@@ -1,0 +1,21 @@
+E:\Le Viet Hoang Nguyen\LTWNC\3Lop\QLCuaHangSua\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDAO.dll
+E:\Le Viet Hoang Nguyen\LTWNC\3Lop\QLCuaHangSua\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDAO.pdb
+E:\Le Viet Hoang Nguyen\LTWNC\3Lop\QLCuaHangSua\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDTO.dll
+E:\Le Viet Hoang Nguyen\LTWNC\3Lop\QLCuaHangSua\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDTO.pdb
+E:\Le Viet Hoang Nguyen\LTWNC\3Lop\QLCuaHangSua\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.csprojResolveAssemblyReference.cache
+E:\Le Viet Hoang Nguyen\LTWNC\3Lop\QLCuaHangSua\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.dll
+E:\Le Viet Hoang Nguyen\LTWNC\3Lop\QLCuaHangSua\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.pdb
+E:\_\THLTWNC_16\3Lop\QLCuaHangSua\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDAO.dll
+E:\_\THLTWNC_16\3Lop\QLCuaHangSua\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDAO.pdb
+E:\_\THLTWNC_16\3Lop\QLCuaHangSua\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDTO.dll
+E:\_\THLTWNC_16\3Lop\QLCuaHangSua\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDTO.pdb
+E:\_\THLTWNC_16\3Lop\QLCuaHangSua\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.csprojResolveAssemblyReference.cache
+E:\_\THLTWNC_16\3Lop\QLCuaHangSua\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.dll
+E:\_\THLTWNC_16\3Lop\QLCuaHangSua\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.pdb
+E:\source code\3Lop_PMC\QLCuaHangSua\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDAO.dll
+E:\source code\3Lop_PMC\QLCuaHangSua\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDAO.pdb
+E:\source code\3Lop_PMC\QLCuaHangSua\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDTO.dll
+E:\source code\3Lop_PMC\QLCuaHangSua\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDTO.pdb
+E:\source code\3Lop_PMC\QLCuaHangSua\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.csprojResolveAssemblyReference.cache
+E:\source code\3Lop_PMC\QLCuaHangSua\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.dll
+E:\source code\3Lop_PMC\QLCuaHangSua\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.pdb
